@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=715&height=44&lines=I%20like%20to%20make%20apps%20and%20games!;Love%20adding%20a%20little%20Hawai'i%20my%20projects%20%F0%9F%8C%BA%F0%9F%8C%88" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=715&height=44&lines=I%20like%20to%20make%20apps%20and%20games!;Love%20adding%20a%20little%20Hawai'i%20to%20my%20projects%20%F0%9F%8C%BA%F0%9F%8C%88" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 Pronouns: **she/her**  
 
 Software engineer who loves building things people actually use, from customer-facing apps to games and mods. I spent two and a half years at an IoT startup building React Native and React apps, and on the side I make games/mods/apps that carry a piece of Hawai'i in them.
